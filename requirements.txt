@@ -38,4 +38,4 @@ ujson==5.7.0
 uvicorn==0.21.1
 uvloop==0.17.0
 watchfiles==0.18.1
-websockets==11.0
+websockets==11.0.2
